@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  margin: 0;
+  min-height: 100%;
+}
+
+button {
+  width: 100%;
+  margin: 20px;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 100%;
+}
+
+.btn-off {
+  background: #5eba7d;
+}
+
+.btn-on {
+  background: #d0393e;
+}
